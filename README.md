@@ -1,4 +1,5 @@
 # VITT-Associated Antibody Features in Healthy Human B-Cell Repertoires
+**Archived release:** [Zenodo DOI: 10.5281/zenodo.23087012](https://doi.org/10.5281/zenodo.23087012)
 
 ## Repository purpose
 
