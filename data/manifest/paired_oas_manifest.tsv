@@ -1,0 +1,92 @@
+file	Run	Author	Link	Species	Subject	Age	BSource	BType	Disease	Vaccine	Longitudinal	Isotype	Chain	Unique sequences
+1279065_1_Paired_All.csv.gz	1279065	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	8369
+1279066_1_Paired_All.csv.gz	1279066	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Memory-B-Cells	None	None	no	All	Paired	12381
+1279067_1_Paired_All.csv.gz	1279067	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Memory-B-Cells	None	None	no	All	Paired	8437
+1279068_1_Paired_All.csv.gz	1279068	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Plasmablast	None	None	no	All	Paired	843
+1279073_1_Paired_All.csv.gz	1279073	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	9757
+1279074_1_Paired_All.csv.gz	1279074	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Memory-B-Cells	None	None	no	All	Paired	14334
+1279075_1_Paired_All.csv.gz	1279075	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Memory-B-Cells	None	None	no	All	Paired	8945
+1279076_1_Paired_All.csv.gz	1279076	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Plasmablast	None	None	no	All	Paired	889
+1287144_1_Paired_All.csv.gz	1287144	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	18788
+1287145_1_Paired_All.csv.gz	1287145	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	18894
+1287146_1_Paired_All.csv.gz	1287146	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	19179
+1287147_1_Paired_All.csv.gz	1287147	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	18920
+1287148_1_Paired_All.csv.gz	1287148	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Unsorted-B-Cells	None	None	no	All	Paired	18037
+1287149_1_Paired_All.csv.gz	1287149	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Unsorted-B-Cells	None	None	no	All	Paired	18048
+1287150_1_Paired_All.csv.gz	1287150	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Unsorted-B-Cells	None	None	no	All	Paired	16988
+1287151_1_Paired_All.csv.gz	1287151	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Unsorted-B-Cells	None	None	no	All	Paired	17500
+1287152_1_Paired_All.csv.gz	1287152	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	9336
+1287153_1_Paired_All.csv.gz	1287153	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	18942
+1287154_1_Paired_All.csv.gz	1287154	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	19839
+1287155_1_Paired_All.csv.gz	1287155	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Naive-B-Cells	None	None	no	All	Paired	19303
+1287156_1_Paired_All.csv.gz	1287156	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Unsorted-B-Cells	None	None	no	All	Paired	18273
+1287157_1_Paired_All.csv.gz	1287157	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Unsorted-B-Cells	None	None	no	All	Paired	17943
+1287158_1_Paired_All.csv.gz	1287158	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Unsorted-B-Cells	None	None	no	All	Paired	18008
+1287159_1_Paired_All.csv.gz	1287159	Jaffe et al., 2022	https://doi.org/10.1038/s41586-022-05371-z	human	Donor-3	38	PBMC	Unsorted-B-Cells	None	None	no	All	Paired	18256
+1_S1__1_Paired_All.csv.gz	1_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Plasma-B-Cells	None	None	Jul-Year-2020	All	Paired	4668
+1a_S1__1_Paired_All.csv.gz	1a_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Year-2014	All	Paired	6640
+1a_S1mod2_S1__1_Paired_All.csv.gz	1a_S1mod2_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Plasma-B-Cells	None	None	May-Year-2020	All	Paired	2287
+1a_S1mod_S1__1_Paired_All.csv.gz	1a_S1mod_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Plasma-B-Cells	None	None	Year-2020	All	Paired	1475
+1b_S2__1_Paired_All.csv.gz	1b_S2_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Year-2014	All	Paired	6828
+1b_S2mod2_S1__1_Paired_All.csv.gz	1b_S2mod2_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Plasma-B-Cells	None	None	May-Year-2020	All	Paired	2391
+1b_S2mod_S1__1_Paired_All.csv.gz	1b_S2mod_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Plasma-B-Cells	None	None	Year-2020	All	Paired	2471
+1c_S3__1_Paired_All.csv.gz	1c_S3_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Year-2014	All	Paired	7567
+1c_S3mod_S1__1_Paired_All.csv.gz	1c_S3mod_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Plasma-B-Cells	None	None	Year-2020	All	Paired	3670
+1d_S4__1_Paired_All.csv.gz	1d_S4_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Year-2014	All	Paired	8415
+1d_S4mod_S1__1_Paired_All.csv.gz	1d_S4mod_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Plasma-B-Cells	None	None	Year-2020	All	Paired	4115
+1e_S5__1_Paired_All.csv.gz	1e_S5_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Year-2014	All	Paired	8478
+1e_S5pc__1_Paired_All.csv.gz	1e_S5pc_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Plasma-B-Cells	None	None	Year-2020	All	Paired	1218
+1f_S6__1_Paired_All.csv.gz	1f_S6_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Year-2014	All	Paired	7628
+2_S2__1_Paired_All.csv.gz	2_S2_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Plasma-B-Cells	None	None	Jul-Year-2020	All	Paired	5060
+2_S7__1_Paired_All.csv.gz	2_S7_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Plasma-B-Cells	None	None	Year-2014	All	Paired	1068
+2a_S3__1_Paired_All.csv.gz	2a_S3_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Plasma-B-Cells	None	None	May-Year-2020	All	Paired	1218
+2a_S6__1_Paired_All.csv.gz	2a_S6_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2020	All	Paired	4748
+2b_S7__1_Paired_All.csv.gz	2b_S7_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2020	All	Paired	4846
+2c_S8__1_Paired_All.csv.gz	2c_S8_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2020	All	Paired	5104
+3a_S3__1_Paired_All.csv.gz	3a_S3_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Jul-Year-2020	All	Paired	7437
+3a_S4__1_Paired_All.csv.gz	3a_S4_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	May-Year-2020	All	Paired	6269
+3b_S4__1_Paired_All.csv.gz	3b_S4_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Jul-Year-2020	All	Paired	7279
+3b_S5__1_Paired_All.csv.gz	3b_S5_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	May-Year-2020	All	Paired	5988
+3c_S5__1_Paired_All.csv.gz	3c_S5_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Jul-Year-2020	All	Paired	7179
+3c_S6__1_Paired_All.csv.gz	3c_S6_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	May-Year-2020	All	Paired	5819
+3d_S6__1_Paired_All.csv.gz	3d_S6_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Jul-Year-2020	All	Paired	7464
+3d_S7__1_Paired_All.csv.gz	3d_S7_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	May-Year-2020	All	Paired	5839
+3e_S7__1_Paired_All.csv.gz	3e_S7_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	Jul-Year-2020	All	Paired	6662
+3e_S8__1_Paired_All.csv.gz	3e_S8_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Memory-B-Cells	None	None	May-Year-2020	All	Paired	4721
+AT6md_S1__1_Paired_All.csv.gz	AT6md_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2020	All	Paired	4288
+AT6me_S2__1_Paired_All.csv.gz	AT6me_S2_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2020	All	Paired	4012
+AT6p2a_S3__1_Paired_All.csv.gz	AT6p2a_S3_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Plasma-B-Cells	None	None	Year-2020	All	Paired	2671
+AT6p2b_S4__1_Paired_All.csv.gz	AT6p2b_S4_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Plasma-B-Cells	None	None	Year-2020	All	Paired	2066
+AT6p2c_S5__1_Paired_All.csv.gz	AT6p2c_S5_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Plasma-B-Cells	None	None	Year-2020	All	Paired	3878
+AT7ma_S7__1_Paired_All.csv.gz	AT7ma_S7_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2010	All	Paired	4271
+AT7mb_S1__1_Paired_All.csv.gz	AT7mb_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2010	All	Paired	7171
+AT7mc_S2__1_Paired_All.csv.gz	AT7mc_S2_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2010	All	Paired	6522
+AT7md_S3__1_Paired_All.csv.gz	AT7md_S3_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2010	All	Paired	6563
+AT7me_S4__1_Paired_All.csv.gz	AT7me_S4_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-1	no	PBMC	Memory-B-Cells	None	None	Year-2010	All	Paired	5704
+BT4p1_S1__1_Paired_All.csv.gz	BT4p1_S1_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Plasma-B-Cells	None	None	Nov-Year-2020	All	Paired	3337
+BT4p2_S2__1_Paired_All.csv.gz	BT4p2_S2_	Phad et al., 2022	https://doi.org/10.1038/s41590-022-01230-1	human	Donor-2	no	PBMC	Plasma-B-Cells	None	None	Nov-Year-2020	All	Paired	21
+Human_colon_16S8157815_S25_1_Paired_All.csv.gz	Human_colon_16S8157815_S25	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	caecum	Unsorted-B-Cells	None	None	None	All	Paired	729
+Human_colon_16S8157815_S26_1_Paired_All.csv.gz	Human_colon_16S8157815_S26	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	caecum	Unsorted-B-Cells	None	None	None	All	Paired	791
+Human_colon_16S8157815_S27_1_Paired_All.csv.gz	Human_colon_16S8157815_S27	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	caecum	Unsorted-B-Cells	None	None	None	All	Paired	696
+Human_colon_16S8157815_S28_1_Paired_All.csv.gz	Human_colon_16S8157815_S28	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	caecum	Unsorted-B-Cells	None	None	None	All	Paired	766
+Human_colon_16S8157817_S33_1_Paired_All.csv.gz	Human_colon_16S8157817_S33	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	transverse-colon	Unsorted-B-Cells	None	None	None	All	Paired	1422
+Human_colon_16S8157817_S34_1_Paired_All.csv.gz	Human_colon_16S8157817_S34	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	transverse-colon	Unsorted-B-Cells	None	None	None	All	Paired	1113
+Human_colon_16S8157817_S35_1_Paired_All.csv.gz	Human_colon_16S8157817_S35	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	transverse-colon	Unsorted-B-Cells	None	None	None	All	Paired	1122
+Human_colon_16S8157817_S36_1_Paired_All.csv.gz	Human_colon_16S8157817_S36	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	transverse-colon	Unsorted-B-Cells	None	None	None	All	Paired	1123
+Human_colon_16S8157819_S41_1_Paired_All.csv.gz	Human_colon_16S8157819_S41	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	sigmoid-colon	Unsorted-B-Cells	None	None	None	All	Paired	552
+Human_colon_16S8157819_S42_1_Paired_All.csv.gz	Human_colon_16S8157819_S42	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	sigmoid-colon	Unsorted-B-Cells	None	None	None	All	Paired	534
+Human_colon_16S8157819_S43_1_Paired_All.csv.gz	Human_colon_16S8157819_S43	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	sigmoid-colon	Unsorted-B-Cells	None	None	None	All	Paired	515
+Human_colon_16S8157819_S44_1_Paired_All.csv.gz	Human_colon_16S8157819_S44	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	sigmoid-colon	Unsorted-B-Cells	None	None	None	All	Paired	554
+Human_colon_16S8157822_S53_1_Paired_All.csv.gz	Human_colon_16S8157822_S53	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	mesenteric-lymph-node	Unsorted-B-Cells	None	None	None	All	Paired	292
+Human_colon_16S8157822_S54_1_Paired_All.csv.gz	Human_colon_16S8157822_S54	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	mesenteric-lymph-node	Unsorted-B-Cells	None	None	None	All	Paired	281
+Human_colon_16S8157822_S55_1_Paired_All.csv.gz	Human_colon_16S8157822_S55	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	mesenteric-lymph-node	Unsorted-B-Cells	None	None	None	All	Paired	311
+Human_colon_16S8157822_S56_1_Paired_All.csv.gz	Human_colon_16S8157822_S56	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	417c	65 to 70	mesenteric-lymph-node	Unsorted-B-Cells	None	None	None	All	Paired	290
+Pan_T7935499_S5_1_Paired_All.csv.gz	Pan_T7935499_S5	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	390c	65 to 70	transverse-colon	Unsorted-B-Cells	None	None	None	All	Paired	1
+Pan_T7935499_S8_1_Paired_All.csv.gz	Pan_T7935499_S8	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	390c	65 to 70	transverse-colon	Unsorted-B-Cells	None	None	None	All	Paired	1
+Pan_T7935508_S41_1_Paired_All.csv.gz	Pan_T7935508_S41	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	390c	65 to 70	caecum	Unsorted-B-Cells	None	None	None	All	Paired	267
+Pan_T7935508_S42_1_Paired_All.csv.gz	Pan_T7935508_S42	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	390c	65 to 70	caecum	Unsorted-B-Cells	None	None	None	All	Paired	138
+Pan_T7935508_S43_1_Paired_All.csv.gz	Pan_T7935508_S43	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	390c	65 to 70	caecum	Unsorted-B-Cells	None	None	None	All	Paired	293
+Pan_T7935508_S44_1_Paired_All.csv.gz	Pan_T7935508_S44	James et al, 2020	https://pubmed.ncbi.nlm.nih.gov/32066951/	human	390c	65 to 70	caecum	Unsorted-B-Cells	None	None	None	All	Paired	312
+SRR10358523_paired.csv.gz	SRR10358523	Eccles et al., 2020	https://doi.org/10.1016/j.celrep.2019.12.027	human	Healthy-1	33	PBMC	RV+B-Cells	None	None	no	All	Paired	100
+SRR10358524_paired.csv.gz	SRR10358524	Eccles et al., 2020	https://doi.org/10.1016/j.celrep.2019.12.027	human	Healthy-1	33	PBMC	RV+B-Cells	None	None	no	All	Paired	47
+SRR10358525_paired.csv.gz	SRR10358525	Eccles et al., 2020	https://doi.org/10.1016/j.celrep.2019.12.027	human	Healthy-1	33	PBMC	RV+B-Cells	None	None	no	All	Paired	624

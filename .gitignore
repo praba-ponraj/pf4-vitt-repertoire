@@ -1,0 +1,25 @@
+# Raw OAS sequence data
+*.csv.gz
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Manuscript and draft artifacts
+*.docx
+*.pdf
+
+# Editor and operating-system files
+.DS_Store
+*~
+*.swp
+*.swo
+
+# Temporary files and logs
+*.log
+*.tmp
+*.temp
+.cache/

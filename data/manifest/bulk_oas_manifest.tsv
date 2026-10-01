@@ -1,0 +1,24 @@
+file	Run	Author	Link	Species	Subject	Age	BSource	BType	Disease	Vaccine	Longitudinal	Isotype	Chain	Unique sequences
+SRR8365250_1_Light_Bulk.csv.gz	SRR8365250	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP1	47	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	12718
+SRR8365251_1_Light_Bulk.csv.gz	SRR8365251	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP1	47	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	1951227
+SRR8365252_1_Light_Bulk.csv.gz	SRR8365252	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP1	47	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	2587500
+SRR8365253_1_Light_Bulk.csv.gz	SRR8365253	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP1	47	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	1872287
+SRR8365313_1_Light_Bulk.csv.gz	SRR8365313	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP1	47	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4499149
+SRR8365392_1_Light_Bulk.csv.gz	SRR8365392	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP1	47	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4499254
+SRR8365478_1_Light_Bulk.csv.gz	SRR8365478	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP1	47	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4498900
+SRR8365484_1_Light_Bulk.csv.gz	SRR8365484	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP1	47	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4471385
+SRR8365484_3_Light_Bulk.csv.gz	SRR8365484	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP1	47	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4473519
+SRR8365258_1_Light_Bulk.csv.gz	SRR8365258	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP2	22	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	2002600
+SRR8365260_1_Light_Bulk.csv.gz	SRR8365260	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP2	22	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	2351669
+SRR8365262_1_Light_Bulk.csv.gz	SRR8365262	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP2	22	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	3136837
+SRR8365285_1_Light_Bulk.csv.gz	SRR8365285	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP2	22	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4304420
+SRR8365292_1_Light_Bulk.csv.gz	SRR8365292	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP2	22	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4471620
+SRR8365338_1_Light_Bulk.csv.gz	SRR8365338	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP2	22	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4498935
+SRR8365352_1_Light_Bulk.csv.gz	SRR8365352	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP2	22	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4499249
+SRR8365380_1_Light_Bulk.csv.gz	SRR8365380	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP2	22	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4299836
+SRR8365476_1_Light_Bulk.csv.gz	SRR8365476	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP2	22	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4312002
+SRR8365294_1_Light_Bulk.csv.gz	SRR8365294	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP3	29	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4498866
+SRR8365340_1_Light_Bulk.csv.gz	SRR8365340	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP3	29	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4499389
+SRR8365368_1_Light_Bulk.csv.gz	SRR8365368	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP3	29	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4446576
+SRR8365383_1_Light_Bulk.csv.gz	SRR8365383	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP3	29	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4499412
+SRR8365425_1_Light_Bulk.csv.gz	SRR8365425	Soto et al., 2019	https://doi.org/10.1038/s41586-019-0934-8	human	Subject-HIP3	29	PBMC	Unsorted-B-Cells	None	None	no	Bulk	Light	4498838
