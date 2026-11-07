@@ -1,12 +1,32 @@
 cff-version: 1.2.0
 message: "Please cite this software using the metadata in this file."
-title: "VITT-Associated Antibody Features in Healthy Human B-Cell Repertoires: Reproducibility Repository"
+title: "Healthy human B-cell repertoire reference frequencies for vaccine-induced immune thrombocytopenia and thrombosis–associated antibody sequence features"
 type: software
 authors:
+  - family-names: "Prabakaran"
+    given-names: "Joel D."
+    orcid: "https://orcid.org/0009-0005-2691-6636"
+    affiliation: "Department of Biological Sciences, University of Maryland Baltimore County, Baltimore, Maryland, USA"
   - family-names: "Ponraj"
     given-names: "Prabakaran"
     orcid: "https://orcid.org/0000-0002-4049-4813"
     email: "prabakaran.ponraj@gmail.com"
-version: "1.1.0"
+    affiliation: "PMJ Technology Solutions LLC, Frederick, Maryland, USA"
+version: "1.1.1"
+date-released: 2026-11-07
 doi: "10.5281/zenodo.23087012"
 repository-code: "https://github.com/praba-ponraj/pf4-vitt-repertoire"
+license: MIT
+keywords:
+  - VITT
+  - vaccine-induced immune thrombocytopenia and thrombosis
+  - B-cell receptor repertoire
+  - antibody repertoire
+  - IGLV3-21
+  - K31E
+  - Observed Antibody Space
+abstract: >-
+  Reproducibility repository containing analysis code, provenance information,
+  reported outputs, and clearly separated exploratory analyses supporting the
+  study of VITT-associated antibody sequence features in healthy human B-cell
+  repertoires. Raw OAS sequence data are not redistributed.

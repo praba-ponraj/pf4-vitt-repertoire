@@ -91,76 +91,19 @@ sources and terms.
 
 Every number in the manuscript maps to one script and one output field.
 
-  --------------------------------------------------------------------------------------------------------------------------------------
-  Manuscript     Claim               Script                        Output file                                  Field / row
-  location
-  -------------- ------------------- ----------------------------- -------------------------------------------- ------------------------
-  Abstract,      K31E in 43,585 of   `analyze_bulk_iglv321.py`     `data/derived/bulk_iglv321_results.tsv`      `TOTAL` row,
-  Results        1,455,792 IGLV3-21                                                                             `k31e_all_iglv321` /
-                 sequences (2.99%)                                                                              `iglv321`
-
-  Results, Table HIP1 18,727/545,394 `analyze_bulk_iglv321.py`     `data/derived/bulk_iglv321_results.tsv`      subject-level rows
-  1              (3.43%); HIP2
-                 6,564/328,217
-                 (2.00%); HIP3
-                 18,294/582,181
-                 (3.14%)
-
-  Methods        773 of 1,455,792    `analyze_bulk_iglv321.py`     `data/derived/bulk_iglv321_results.tsv`      `TOTAL` row,
-                 (0.053%) could not                                                                             `k31_unmapped_iglv321`
-                 be anchored
-
-  Table 1        \*02/\*03           `analyze_bulk_iglv321.py`     `data/derived/bulk_iglv321_results.tsv`      `allele_02_03_pct`,
-                 assignment                                                                                     subject rows
-                 proportions per
-                 donor
-
-  Results        K31E across 1,093   `k31e_clonality.py`           `results/reported/clon_HIP1.txt`,            `unique CDR3`, K31E
-                 to 3,778 distinct                                 `clon_HIP2.txt`, `clon_HIP3.txt`             column
-                 CDR-L3 amino-acid
-                 sequences per
-                 individual
-
-  Results        Per-CDR-L3 K31E     `k31e_clonality.py`           `results/reported/HIP1_K31E_cdr3.tsv`,       CDR-L3 sequence and K31E
-                 counts underlying                                 `HIP2_K31E_cdr3.tsv`, `HIP3_K31E_cdr3.tsv`   count rows
-                 CDR-L3 diversity
-                 and
-                 abundance-removal
-                 checks
-
-  Results        K31E remained at    `k31e_allele_runs.py`         `results/reported/qc_HIP1_all.txt`,          section (A), `top 25`
-                 1.12% to 2.21%                                    `qc_HIP2_all9.txt`, `qc_HIP3_all.txt`        row, `prevalence`
-                 after removal of
-                 the 25 most
-                 abundant CDR-L3
-                 sequences
-
-  Results        HIP2 run-level K31E `analyze_bulk_iglv321.py`     `data/derived/bulk_iglv321_results.tsv`      run-level rows,
-                 heterogeneity                                                                                  `k31e_pct`
-                 (0.16%--2.17%)
-
-  Table 2,       9,394 proxy pairs;  `analyze_paired_iglv321.py`   `data/derived/paired_iglv321_results.tsv`;   `TOTAL` row;
-  column 1       K31E 133 (1.42%);   *or*                          `results/reported/sens_table1c.txt`          `full proxy` column
-                 IGHJ3 1,613         `paired_dds_sensitivity.py`
-                 (17.17%); acidic
-                 HCDR3 2,556
-                 (27.21%); VITT IGHV
-                 1,839 (19.58%);
-                 VITT IGHV + IGHJ3
-                 309 (3.29%);
-                 five-feature 0
-
-  Methods, Table 7,424 of 9,394      `paired_dds_sensitivity.py`   `results/reported/sens_table1c.txt`          `DDS observed` column
-  2 col. 2       (79.0%) with DDS
-                 directly observed;
-                 K31E 52 (0.70%)
-
-  Results, Table 1,970 (21.0%)       `paired_dds_sensitivity.py`   `results/reported/sens_table1c.txt`          `allele-only` column
-  2 col. 3       qualifying by
-                 \*02/\*03
-                 assignment alone;
-                 K31E 81 (4.11%)
-  --------------------------------------------------------------------------------------------------------------------------------------
+| Manuscript location | Claim | Script | Output file | Field / row |
+|---|---|---|---|---|
+| Abstract, Results | K31E in 43,585 of 1,455,792 IGLV3-21 sequences (2.99%) | `analyze_bulk_iglv321.py` | `data/derived/bulk_iglv321_results.tsv` | `TOTAL` row, `k31e_all_iglv321` / `iglv321` |
+| Results, Table 1 | HIP1 18,727/545,394 (3.43%); HIP2 6,564/328,217 (2.00%); HIP3 18,294/582,181 (3.14%) | `analyze_bulk_iglv321.py` | `data/derived/bulk_iglv321_results.tsv` | subject-level rows |
+| Methods | 773 of 1,455,792 (0.053%) could not be anchored | `analyze_bulk_iglv321.py` | `data/derived/bulk_iglv321_results.tsv` | `TOTAL` row, `k31_unmapped_iglv321` |
+| Table 1 | \*02/\*03 assignment proportions per donor | `analyze_bulk_iglv321.py` | `data/derived/bulk_iglv321_results.tsv` | `allele_02_03_pct`, subject rows |
+| Results | K31E across 1,093 to 3,778 distinct CDR-L3 amino-acid sequences per individual | `k31e_clonality.py` | `results/reported/clon_HIP1.txt`, `clon_HIP2.txt`, `clon_HIP3.txt` | `unique CDR3`, K31E column |
+| Results | Per-CDR-L3 K31E counts underlying CDR-L3 diversity and abundance-removal checks | `k31e_clonality.py` | `results/reported/HIP1_K31E_cdr3.tsv`, `HIP2_K31E_cdr3.tsv`, `HIP3_K31E_cdr3.tsv` | CDR-L3 sequence and K31E count rows |
+| Results | K31E remained at 1.12% to 2.21% after removal of the 25 most abundant CDR-L3 sequences | `k31e_allele_runs.py` | `results/reported/qc_HIP1_all.txt`, `qc_HIP2_all9.txt`, `qc_HIP3_all.txt` | section (A), `top 25` row, `prevalence` |
+| Results | HIP2 run-level K31E heterogeneity (0.16%–2.17%) | `analyze_bulk_iglv321.py` | `data/derived/bulk_iglv321_results.tsv` | run-level rows, `k31e_pct` |
+| Table 2, column 1 | 9,394 proxy pairs; K31E 133 (1.42%); IGHJ3 1,613 (17.17%); acidic HCDR3 2,556 (27.21%); VITT IGHV 1,839 (19.58%); VITT IGHV + IGHJ3 309 (3.29%); five-feature 0 | `analyze_paired_iglv321.py` or `paired_dds_sensitivity.py` | `data/derived/paired_iglv321_results.tsv`; `results/reported/sens_table1c.txt` | `TOTAL` row; `full proxy` column |
+| Methods, Table 2 col. 2 | 7,424 of 9,394 (79.0%) with DDS directly observed; K31E 52 (0.70%) | `paired_dds_sensitivity.py` | `results/reported/sens_table1c.txt` | `DDS observed` column |
+| Results, Table 2 col. 3 | 1,970 (21.0%) qualifying by \*02/\*03 assignment alone; K31E 81 (4.11%) | `paired_dds_sensitivity.py` | `results/reported/sens_table1c.txt` | `allele-only` column |
 
 Provenance chain: OAS source/accession → manifest → analysis script →
 derived output → manuscript table.
@@ -291,12 +234,12 @@ python3 scripts/paired_dds_sensitivity.py PAIRED_INPUT_DIR/*.csv.gz
 
 ### Bulk light-chain analysis
 
-  Group        K31E / IGLV3-21   Frequency
-  ------- -------------------- -----------
-  HIP1        18,727 / 545,394      3.434%
-  HIP2         6,564 / 328,217      2.000%
-  HIP3        18,294 / 582,181      3.142%
-  Total     43,585 / 1,455,792      2.994%
+| Group | K31E / IGLV3-21 | Frequency |
+|---|---:|---:|
+| HIP1 | 18,727 / 545,394 | 3.434% |
+| HIP2 | 6,564 / 328,217 | 2.000% |
+| HIP3 | 18,294 / 582,181 | 3.142% |
+| Total | 43,585 / 1,455,792 | 2.994% |
 
 The bulk input contained 85,186,188 sequences; 773 IGLV3-21 sequences
 (0.053%) had an unanchored K31 position.
@@ -307,64 +250,45 @@ The distinct-CDR-L3 count for each donor is reported independently by
 `k31e_clonality.py` and by section (A) of `k31e_allele_runs.py`; the two
 agree exactly (e.g. HIP2: 1,093 in both).
 
-  -----------------------------------------------------------------------
-  Donor              K31E sequences    Distinct CDR-L3      Most abundant
-                                             sequences      CDR-L3, share
-  -------------- ------------------ ------------------ ------------------
-  HIP1                       18,727              3,778              6.37%
-
-  HIP2 (all 9                 6,564              1,093             13.54%
-  runs)
-
-  HIP3                       18,294              2,762              8.42%
-  -----------------------------------------------------------------------
+| Donor | K31E sequences | Distinct CDR-L3 sequences | Most abundant CDR-L3, share |
+|---|---:|---:|---:|
+| HIP1 | 18,727 | 3,778 | 6.37% |
+| HIP2 (all 9 runs) | 6,564 | 1,093 | 13.54% |
+| HIP3 | 18,294 | 2,762 | 8.42% |
 
 ### Abundance-removal sensitivity
 
 K31E frequency among anchored IGLV3-21 sequences after removing the N
 most abundant K31E-associated CDR-L3 amino-acid sequences:
 
-  Removed        HIP1   HIP2 (all 9 runs)      HIP3
-  --------- --------- ------------------- ---------
-  none        3.4365%             2.0005%   3.1435%
-  top 1       3.2176%             1.7296%   2.8789%
-  top 5       2.8517%             1.4401%   2.4498%
-  top 10      2.6454%             1.3300%   2.1860%
-  top 25      2.2101%             1.1240%   1.8017%
+| Removed | HIP1 | HIP2 (all 9 runs) | HIP3 |
+|---|---:|---:|---:|
+| none | 3.4365% | 2.0005% | 3.1435% |
+| top 1 | 3.2176% | 1.7296% | 2.8789% |
+| top 5 | 2.8517% | 1.4401% | 2.4498% |
+| top 10 | 2.6454% | 1.3300% | 2.1860% |
+| top 25 | 2.2101% | 1.1240% | 1.8017% |
 
 ### Run-level heterogeneity (HIP2)
 
-Among HIP2 runs with at least 1,000 IGLV3-21 sequences, K31E frequency
-ranged from 0.16% to 2.17%. Three runs with the highest IGLV3-21 yield
-(\~2.3% of sequences) gave 2.06--2.17%; three with lower yield (\~0.29%)
-gave 0.16--0.25%. Three further runs yielded 6, 11 and 12 IGLV3-21
-sequences and contribute negligibly. This heterogeneity was identified
-during analysis and is reported as a limitation; no run was excluded.
+Among HIP2 runs with at least 1,000 IGLV3-21 sequences, K31E frequency ranged
+from 0.16% to 2.17%. Three runs with the highest IGLV3-21 yield (~2.3% of
+sequences) gave 2.06–2.17%; three with lower yield (~0.29%) gave 0.16–0.25%.
+Three further runs yielded 6, 11 and 12 IGLV3-21 sequences and contribute
+negligibly. This heterogeneity was identified during analysis and is reported
+as a limitation; no run was excluded.
 
 ### Paired analysis and sequence-observed DDS sensitivity
 
-  ------------------------------------------------------------------------
-  Measure          Full DDS(D) proxy       DDS observed     \*02/\*03 only
-  --------------- ------------------ ------------------ ------------------
-  Pairs                        9,394     7,424 (79.03%)     1,970 (20.97%)
-
-  K31E                   133 (1.42%)         52 (0.70%)         81 (4.11%)
-
-  IGHJ3               1,613 (17.17%)     1,300 (17.51%)       313 (15.89%)
-
-  Acidic HCDR3        2,556 (27.21%)     2,033 (27.38%)       523 (26.55%)
-  (≥3 D/E)
-
-  VITT-reported       1,839 (19.58%)     1,464 (19.72%)       375 (19.04%)
-  IGHV
-
-  VITT IGHV +            309 (3.29%)        237 (3.19%)         72 (3.65%)
-  IGHJ3
-
-  Complete                         0                  0                  0
-  five-feature
-  combination
-  ------------------------------------------------------------------------
+| Measure | Full DDS(D) proxy | DDS observed | \*02/\*03 only |
+| --- | ---: | ---: | ---: |
+| Pairs | 9,394 | 7,424 (79.03%) | 1,970 (20.97%) |
+| K31E | 133 (1.42%) | 52 (0.70%) | 81 (4.11%) |
+| IGHJ3 | 1,613 (17.17%) | 1,300 (17.51%) | 313 (15.89%) |
+| Acidic HCDR3 (≥3 D/E) | 2,556 (27.21%) | 2,033 (27.38%) | 523 (26.55%) |
+| VITT-reported IGHV | 1,839 (19.58%) | 1,464 (19.72%) | 375 (19.04%) |
+| VITT IGHV + IGHJ3 | 309 (3.29%) | 237 (3.19%) | 72 (3.65%) |
+| Complete five-feature combination | 0 | 0 | 0 |
 
 Total paired input: 568,139 pairs from 91 OAS data units; 16,464
 IGLV3-21 pairs; 0 unanchored K31 positions.
