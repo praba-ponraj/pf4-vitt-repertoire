@@ -1,4 +1,4 @@
-# Healthy human B-cell repertoire reference frequencies for vaccine-induced immune thrombocytopenia and thrombosis--associated antibody sequence features
+# Healthy human B-cell repertoire reference frequencies for vaccine-induced immune thrombocytopenia and thrombosis-associated antibody sequence features
 
 **Archived release:** [Zenodo concept DOI:
 10.5281/zenodo.23087012](https://doi.org/10.5281/zenodo.23087012)
