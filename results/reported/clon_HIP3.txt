@@ -1,0 +1,56 @@
+[info] using CDR3 column: cdr3_aa
+[read] Subject-HIP3/SRR8365294_1_Light_Bulk.csv.gz: 115,592 IGLV3-21
+[read] Subject-HIP3/SRR8365340_1_Light_Bulk.csv.gz: 122,022 IGLV3-21
+[read] Subject-HIP3/SRR8365368_1_Light_Bulk.csv.gz: 114,092 IGLV3-21
+[read] Subject-HIP3/SRR8365383_1_Light_Bulk.csv.gz: 116,660 IGLV3-21
+[read] Subject-HIP3/SRR8365425_1_Light_Bulk.csv.gz: 113,815 IGLV3-21
+
+=== HIP3 ===
+IGLV3-21 sequences     : 582,181
+anchored at K31          : 581,964
+
+                                      K31E    K31 germline
+sequences                           18,294         505,288
+unique CDR3                          2,762          43,073
+unique CDR3 per 1000 seq             151.0            85.2
+top 1 CDR3 share                     8.42%           6.80%
+top 10 CDR3 share                   30.46%          27.74%
+Simpson index                      0.01551         0.01103
+Shannon H                            5.895           7.205
+effective # clones                     363            1347
+
+ratio of unique-CDR3-per-1000 (K31E / background): 1.771
+  ~1.0  -> K31E sequences are as diverse as background (independent events)
+  <<1.0 -> K31E is concentrated in few lineages (clone frequency, not mutation frequency)
+
+--- top 15 CDR3s among K31E sequences ---
+    1,540    8.42%  QVWDSSSDHVV
+      943    5.15%  QVWDGSSDQQV
+      625    3.42%  QVWDTNNDHAV
+      501    2.74%  QVWDTNVV
+      428    2.34%  QVWDGSSDHQV
+      416    2.27%  QVWDSSSDHVI
+      356    1.95%  QVWDGSSDHVV
+      270    1.48%  QVWDGSRDQQV
+      247    1.35%  QVWDGRTDQQV
+      246    1.34%  QVWDTSSNHVV
+      214    1.17%  QVWDGSRDHQV
+      204    1.12%  QVWDSSSAHPDWV
+      190    1.04%  QVWDGPSDQQV
+      178    0.97%  QVWDSSSDHYV
+      173    0.95%  QVWDKSNDHSGV
+
+--- top 5 CDR3s in K31-germline background (for scale) ---
+   34,345    6.80%  QVWDSSSDHVV
+   21,072    4.17%  QVWDSGSAHVV
+   13,979    2.77%  QVWDIMTDNYV
+   13,857    2.74%  QVWDSSSDHYV
+   11,368    2.25%  QVWDSSSAHVV
+
+--- allele assignment of K31E vs background ---
+  *01: K31E   1,526 ( 8.34%)   background   70,991 (14.05%)
+  *02: K31E      20 ( 0.11%)   background    1,589 ( 0.31%)
+  *03: K31E       2 ( 0.01%)   background      960 ( 0.19%)
+  *04: K31E  16,746 (91.54%)   background  431,748 (85.45%)
+
+wrote CDR3 table -> HIP3_K31E_cdr3.tsv

@@ -1,0 +1,50 @@
+[read] SRR8365258: 5,890 IGLV3-21, 15 K31E
+[read] SRR8365260: 6,742 IGLV3-21, 11 K31E
+[read] SRR8365262: 8,657 IGLV3-21, 16 K31E
+[read] SRR8365285: 12 IGLV3-21, 0 K31E
+[read] SRR8365292: 100,844 IGLV3-21, 2,190 K31E
+[read] SRR8365338: 103,603 IGLV3-21, 2,223 K31E
+[read] SRR8365352: 102,452 IGLV3-21, 2,109 K31E
+[read] SRR8365380: 11 IGLV3-21, 0 K31E
+[read] SRR8365476: 6 IGLV3-21, 0 K31E
+
+=== HIP2_all9 ===
+IGLV3-21 sequences : 328,217
+anchored at K31      : 328,113
+anchor failures      : 104 (0.0317%)
+K31E                 : 6,564 (2.0005% of anchored)
+
+--- (A) exact top-N CDR-L3 removal sensitivity ---
+distinct K31E CDR-L3 sequences: 1,093
+   removed   seqs removed    K31E left   prevalence
+      none              0        6,564      2.0005%
+     top 1            889        5,675      1.7296%
+     top 5          1,839        4,725      1.4401%
+    top 10          2,200        4,364      1.3300%
+    top 25          2,876        3,688      1.1240%
+
+Report as a sensitivity analysis, not a replacement estimate.
+
+--- (B) *02 vs *04 association with K31E, by run ---
+         run   K31E 02   K31E 04      bg 02      bg 04       OR               95% CI
+  SRR8365258        11         4      4,171      1,493    0.984            0.31-3.10
+  SRR8365260         4         7      4,770      1,701    0.204            0.06-0.70
+  SRR8365262        13         3      6,135      2,193    1.549            0.44-5.44
+  SRR8365285         0         0          9          3       --       (too few K31E)
+  SRR8365292     1,638       552     55,808     33,195    1.765            1.60-1.95
+  SRR8365338     1,610       613     57,168     34,276    1.575            1.43-1.73
+  SRR8365352     1,593       516     56,944     33,722    1.828            1.65-2.02
+  SRR8365380         0         0          7          3       --       (too few K31E)
+  SRR8365476         0         0          6          0       --       (too few K31E)
+
+CRUDE pooled     4,869     1,695    185,018    106,586    1.655            1.57-1.75
+            Mantel-Haenszel (run-stratified): OR = 1.705   (6 runs contributing)
+
+If the MH OR tracks the crude OR, the association is not explained by run;
+if it collapses toward 1.0, it was confounded by run composition.
+
+--- allele composition detail (pooled) ---
+  *01: K31E      172 (  2.62%)   background     5,267 (  1.81%)
+  *02: K31E    4,859 ( 74.02%)   background   184,514 ( 63.28%)
+  *03: K31E       10 (  0.15%)   background       504 (  0.17%)
+  *04: K31E    1,523 ( 23.20%)   background   101,319 ( 34.75%)

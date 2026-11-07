@@ -1,0 +1,42 @@
+[read] SRR8365294: 115,592 IGLV3-21, 3,534 K31E
+[read] SRR8365340: 122,022 IGLV3-21, 3,979 K31E
+[read] SRR8365368: 114,092 IGLV3-21, 3,823 K31E
+[read] SRR8365383: 116,660 IGLV3-21, 3,513 K31E
+[read] SRR8365425: 113,815 IGLV3-21, 3,445 K31E
+
+=== HIP3 ===
+IGLV3-21 sequences : 582,181
+anchored at K31      : 581,964
+anchor failures      : 217 (0.0373%)
+K31E                 : 18,294 (3.1435% of anchored)
+
+--- (A) exact top-N CDR-L3 removal sensitivity ---
+distinct K31E CDR-L3 sequences: 2,762
+   removed   seqs removed    K31E left   prevalence
+      none              0       18,294      3.1435%
+     top 1          1,540       16,754      2.8789%
+     top 5          4,037       14,257      2.4498%
+    top 10          5,572       12,722      2.1860%
+    top 25          7,809       10,485      1.8017%
+
+Report as a sensitivity analysis, not a replacement estimate.
+
+--- (B) *02 vs *04 association with K31E, by run ---
+         run   K31E 02   K31E 04      bg 02      bg 04       OR               95% CI
+  SRR8365294         3     3,531        504     99,935    0.168            0.05-0.52
+  SRR8365340         3     3,976        501    105,334    0.159            0.05-0.49
+  SRR8365368         7     3,816        573     97,765    0.313            0.15-0.66
+  SRR8365383         3     3,510        527    101,269    0.164            0.05-0.51
+  SRR8365425         6     3,439        444     98,436    0.387            0.17-0.87
+
+CRUDE pooled        22    18,272      2,549    502,739    0.237            0.16-0.36
+            Mantel-Haenszel (run-stratified): OR = 0.237   (5 runs contributing)
+
+If the MH OR tracks the crude OR, the association is not explained by run;
+if it collapses toward 1.0, it was confounded by run composition.
+
+--- allele composition detail (pooled) ---
+  *01: K31E    1,526 (  8.34%)   background    70,991 ( 14.05%)
+  *02: K31E       20 (  0.11%)   background     1,589 (  0.31%)
+  *03: K31E        2 (  0.01%)   background       960 (  0.19%)
+  *04: K31E   16,746 ( 91.54%)   background   431,748 ( 85.45%)

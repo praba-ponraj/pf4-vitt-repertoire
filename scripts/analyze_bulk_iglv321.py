@@ -5,7 +5,8 @@ Analyze IGLV3-21 features in OAS bulk light-chain repertoires.
 
 K31E definition:
 Glutamate at the sequence position aligned to the IGLV3-21 germline
-lysine corresponding to IMGT position 37 (K31 in Wang et al.).
+lysine in the NIGSKS context (K31 in Wang et al.). The germline alignment
+is searched per sequence; no fixed query index or IMGT coordinate is used.
 
 This script intentionally does NOT use:
 - the NIGSES substring

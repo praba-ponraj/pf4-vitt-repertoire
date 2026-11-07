@@ -1,0 +1,60 @@
+[info] using CDR3 column: cdr3_aa
+[read] Subject-HIP2/SRR8365258_1_Light_Bulk.csv.gz: 5,890 IGLV3-21
+[read] Subject-HIP2/SRR8365260_1_Light_Bulk.csv.gz: 6,742 IGLV3-21
+[read] Subject-HIP2/SRR8365262_1_Light_Bulk.csv.gz: 8,657 IGLV3-21
+[read] Subject-HIP2/SRR8365285_1_Light_Bulk.csv.gz: 12 IGLV3-21
+[read] Subject-HIP2/SRR8365292_1_Light_Bulk.csv.gz: 100,844 IGLV3-21
+[read] Subject-HIP2/SRR8365338_1_Light_Bulk.csv.gz: 103,603 IGLV3-21
+[read] Subject-HIP2/SRR8365352_1_Light_Bulk.csv.gz: 102,452 IGLV3-21
+[read] Subject-HIP2/SRR8365380_1_Light_Bulk.csv.gz: 11 IGLV3-21
+[read] Subject-HIP2/SRR8365476_1_Light_Bulk.csv.gz: 6 IGLV3-21
+
+=== HIP2 ===
+IGLV3-21 sequences     : 328,217
+anchored at K31          : 328,113
+
+                                      K31E    K31 germline
+sequences                            6,564         291,604
+unique CDR3                          1,093          28,032
+unique CDR3 per 1000 seq             166.5            96.1
+top 1 CDR3 share                    13.54%           8.01%
+top 10 CDR3 share                   33.52%          22.19%
+Simpson index                      0.02660         0.01042
+Shannon H                            5.376           7.340
+effective # clones                     216            1541
+
+ratio of unique-CDR3-per-1000 (K31E / background): 1.732
+  ~1.0  -> K31E sequences are as diverse as background (independent events)
+  <<1.0 -> K31E is concentrated in few lineages (clone frequency, not mutation frequency)
+
+--- top 15 CDR3s among K31E sequences ---
+      889   13.54%  QVWDRSGDLPHVV
+      368    5.61%  QVWDSRSDRVV
+      257    3.92%  QVWDSSSDHVV
+      210    3.20%  QVWDSSINHPNWV
+      115    1.75%  QVWDSSSDLVV
+       87    1.33%  QVWDGSSDHPVM
+       76    1.16%  QVWDRISDHPHVV
+       68    1.04%  QVWDSSSDHVI
+       68    1.04%  QLWDSNTDHQV
+       62    0.94%  QVWVASNDHPV
+       56    0.85%  QVWDSSSDHPV
+       52    0.79%  QVWDSGNDHVV
+       52    0.79%  QVWDSGSDHVV
+       50    0.76%  QVWRTRSEPAV
+       48    0.73%  QVWDSSSDHYV
+
+--- top 5 CDR3s in K31-germline background (for scale) ---
+   23,343    8.01%  QVWDSSSDHVV
+   11,890    4.08%  QVWDSSSDHYV
+    6,631    2.27%  QVWDSSSDHPV
+    4,569    1.57%  QVWDSSSDHWV
+    3,995    1.37%  QVWDSSSDHPVV
+
+--- allele assignment of K31E vs background ---
+  *01: K31E     172 ( 2.62%)   background    5,267 ( 1.81%)
+  *02: K31E   4,859 (74.02%)   background  184,514 (63.28%)
+  *03: K31E      10 ( 0.15%)   background      504 ( 0.17%)
+  *04: K31E   1,523 (23.20%)   background  101,319 (34.75%)
+
+wrote CDR3 table -> HIP2_K31E_cdr3.tsv

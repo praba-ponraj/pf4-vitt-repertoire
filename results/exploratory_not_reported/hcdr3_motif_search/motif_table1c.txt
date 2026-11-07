@@ -1,0 +1,250 @@
+[read] paried-naive-human/1_S1__1_Paired_All.csv.gz: 4,668 pairs
+[read] paried-naive-human/1279065_1_Paired_All.csv.gz: 8,369 pairs
+[read] paried-naive-human/1279066_1_Paired_All.csv.gz: 12,381 pairs
+[read] paried-naive-human/1279067_1_Paired_All.csv.gz: 8,437 pairs
+[read] paried-naive-human/1279068_1_Paired_All.csv.gz: 843 pairs
+[read] paried-naive-human/1279073_1_Paired_All.csv.gz: 9,757 pairs
+[read] paried-naive-human/1279074_1_Paired_All.csv.gz: 14,334 pairs
+[read] paried-naive-human/1279075_1_Paired_All.csv.gz: 8,945 pairs
+[read] paried-naive-human/1279076_1_Paired_All.csv.gz: 889 pairs
+[read] paried-naive-human/1287144_1_Paired_All.csv.gz: 18,788 pairs
+[read] paried-naive-human/1287145_1_Paired_All.csv.gz: 18,894 pairs
+[read] paried-naive-human/1287146_1_Paired_All.csv.gz: 19,179 pairs
+[read] paried-naive-human/1287147_1_Paired_All.csv.gz: 18,920 pairs
+[read] paried-naive-human/1287148_1_Paired_All.csv.gz: 18,037 pairs
+[read] paried-naive-human/1287149_1_Paired_All.csv.gz: 18,048 pairs
+[read] paried-naive-human/1287150_1_Paired_All.csv.gz: 16,988 pairs
+[read] paried-naive-human/1287151_1_Paired_All.csv.gz: 17,500 pairs
+[read] paried-naive-human/1287152_1_Paired_All.csv.gz: 9,336 pairs
+[read] paried-naive-human/1287153_1_Paired_All.csv.gz: 18,942 pairs
+[read] paried-naive-human/1287154_1_Paired_All.csv.gz: 19,839 pairs
+[read] paried-naive-human/1287155_1_Paired_All.csv.gz: 19,303 pairs
+[read] paried-naive-human/1287156_1_Paired_All.csv.gz: 18,273 pairs
+[read] paried-naive-human/1287157_1_Paired_All.csv.gz: 17,943 pairs
+[read] paried-naive-human/1287158_1_Paired_All.csv.gz: 18,008 pairs
+[read] paried-naive-human/1287159_1_Paired_All.csv.gz: 18,256 pairs
+[read] paried-naive-human/1a_S1__1_Paired_All.csv.gz: 6,640 pairs
+[read] paried-naive-human/1a_S1mod_S1__1_Paired_All.csv.gz: 1,475 pairs
+[read] paried-naive-human/1a_S1mod2_S1__1_Paired_All.csv.gz: 2,287 pairs
+[read] paried-naive-human/1b_S2__1_Paired_All.csv.gz: 6,828 pairs
+[read] paried-naive-human/1b_S2mod_S1__1_Paired_All.csv.gz: 2,471 pairs
+[read] paried-naive-human/1b_S2mod2_S1__1_Paired_All.csv.gz: 2,391 pairs
+[read] paried-naive-human/1c_S3__1_Paired_All.csv.gz: 7,567 pairs
+[read] paried-naive-human/1c_S3mod_S1__1_Paired_All.csv.gz: 3,670 pairs
+[read] paried-naive-human/1d_S4__1_Paired_All.csv.gz: 8,415 pairs
+[read] paried-naive-human/1d_S4mod_S1__1_Paired_All.csv.gz: 4,115 pairs
+[read] paried-naive-human/1e_S5__1_Paired_All.csv.gz: 8,478 pairs
+[read] paried-naive-human/1e_S5pc__1_Paired_All.csv.gz: 1,218 pairs
+[read] paried-naive-human/1f_S6__1_Paired_All.csv.gz: 7,628 pairs
+[read] paried-naive-human/2_S2__1_Paired_All.csv.gz: 5,060 pairs
+[read] paried-naive-human/2_S7__1_Paired_All.csv.gz: 1,068 pairs
+[read] paried-naive-human/2a_S3__1_Paired_All.csv.gz: 1,218 pairs
+[read] paried-naive-human/2a_S6__1_Paired_All.csv.gz: 4,748 pairs
+[read] paried-naive-human/2b_S7__1_Paired_All.csv.gz: 4,846 pairs
+[read] paried-naive-human/2c_S8__1_Paired_All.csv.gz: 5,104 pairs
+[read] paried-naive-human/3a_S3__1_Paired_All.csv.gz: 7,437 pairs
+[read] paried-naive-human/3a_S4__1_Paired_All.csv.gz: 6,269 pairs
+[read] paried-naive-human/3b_S4__1_Paired_All.csv.gz: 7,279 pairs
+[read] paried-naive-human/3b_S5__1_Paired_All.csv.gz: 5,988 pairs
+[read] paried-naive-human/3c_S5__1_Paired_All.csv.gz: 7,179 pairs
+[read] paried-naive-human/3c_S6__1_Paired_All.csv.gz: 5,819 pairs
+[read] paried-naive-human/3d_S6__1_Paired_All.csv.gz: 7,464 pairs
+[read] paried-naive-human/3d_S7__1_Paired_All.csv.gz: 5,839 pairs
+[read] paried-naive-human/3e_S7__1_Paired_All.csv.gz: 6,662 pairs
+[read] paried-naive-human/3e_S8__1_Paired_All.csv.gz: 4,721 pairs
+[read] paried-naive-human/AT6md_S1__1_Paired_All.csv.gz: 4,288 pairs
+[read] paried-naive-human/AT6me_S2__1_Paired_All.csv.gz: 4,012 pairs
+[read] paried-naive-human/AT6p2a_S3__1_Paired_All.csv.gz: 2,671 pairs
+[read] paried-naive-human/AT6p2b_S4__1_Paired_All.csv.gz: 2,066 pairs
+[read] paried-naive-human/AT6p2c_S5__1_Paired_All.csv.gz: 3,878 pairs
+[read] paried-naive-human/AT7ma_S7__1_Paired_All.csv.gz: 4,271 pairs
+[read] paried-naive-human/AT7mb_S1__1_Paired_All.csv.gz: 7,171 pairs
+[read] paried-naive-human/AT7mc_S2__1_Paired_All.csv.gz: 6,522 pairs
+[read] paried-naive-human/AT7md_S3__1_Paired_All.csv.gz: 6,563 pairs
+[read] paried-naive-human/AT7me_S4__1_Paired_All.csv.gz: 5,704 pairs
+[read] paried-naive-human/BT4p1_S1__1_Paired_All.csv.gz: 3,337 pairs
+[read] paried-naive-human/BT4p2_S2__1_Paired_All.csv.gz: 21 pairs
+[read] paried-naive-human/Human_colon_16S8157815_S25_1_Paired_All.csv.gz: 729 pairs
+[read] paried-naive-human/Human_colon_16S8157815_S26_1_Paired_All.csv.gz: 791 pairs
+[read] paried-naive-human/Human_colon_16S8157815_S27_1_Paired_All.csv.gz: 696 pairs
+[read] paried-naive-human/Human_colon_16S8157815_S28_1_Paired_All.csv.gz: 766 pairs
+[read] paried-naive-human/Human_colon_16S8157817_S33_1_Paired_All.csv.gz: 1,422 pairs
+[read] paried-naive-human/Human_colon_16S8157817_S34_1_Paired_All.csv.gz: 1,113 pairs
+[read] paried-naive-human/Human_colon_16S8157817_S35_1_Paired_All.csv.gz: 1,122 pairs
+[read] paried-naive-human/Human_colon_16S8157817_S36_1_Paired_All.csv.gz: 1,123 pairs
+[read] paried-naive-human/Human_colon_16S8157819_S41_1_Paired_All.csv.gz: 552 pairs
+[read] paried-naive-human/Human_colon_16S8157819_S42_1_Paired_All.csv.gz: 534 pairs
+[read] paried-naive-human/Human_colon_16S8157819_S43_1_Paired_All.csv.gz: 515 pairs
+[read] paried-naive-human/Human_colon_16S8157819_S44_1_Paired_All.csv.gz: 554 pairs
+[read] paried-naive-human/Human_colon_16S8157822_S53_1_Paired_All.csv.gz: 292 pairs
+[read] paried-naive-human/Human_colon_16S8157822_S54_1_Paired_All.csv.gz: 281 pairs
+[read] paried-naive-human/Human_colon_16S8157822_S55_1_Paired_All.csv.gz: 311 pairs
+[read] paried-naive-human/Human_colon_16S8157822_S56_1_Paired_All.csv.gz: 290 pairs
+[read] paried-naive-human/Pan_T7935499_S5_1_Paired_All.csv.gz: 1 pairs
+[read] paried-naive-human/Pan_T7935499_S8_1_Paired_All.csv.gz: 1 pairs
+[read] paried-naive-human/Pan_T7935508_S41_1_Paired_All.csv.gz: 267 pairs
+[read] paried-naive-human/Pan_T7935508_S42_1_Paired_All.csv.gz: 138 pairs
+[read] paried-naive-human/Pan_T7935508_S43_1_Paired_All.csv.gz: 293 pairs
+[read] paried-naive-human/Pan_T7935508_S44_1_Paired_All.csv.gz: 312 pairs
+[read] paried-naive-human/SRR10358523_paired.csv.gz: 100 pairs
+[read] paried-naive-human/SRR10358524_paired.csv.gz: 47 pairs
+[read] paried-naive-human/SRR10358525_paired.csv.gz: 624 pairs
+
+########  paired_table1c  ########
+paired records read : 568,139
+
+--- DDS(D) proxy breakdown (n = 9,394) ---
+  observed DDS at CDR-L2 only            23  (0.24%)
+  *02/*03 allele call only            1,970  (20.97%)
+  both criteria                       7,401  (78.78%)
+
+  sequence-defined (DDS observed): 7,424 (79.03%)
+  allele-dependent only          : 1,970 (20.97%)
+
+  If allele-only is a small minority, the paired result can be
+  stated as sequence-defined with the disjunction as a
+  sensitivity analysis.
+
+======================================================================
+=== (1) ALL usable paired HCDR3s ===
+usable HCDR3s     : 568,136
+mean HCDR3 length : 15.86
+IGHJ3 usage       : 85,538 (15.056%)
+
+  all sequences in this denominator
+  tier                             obs    obs %   expected  obs/exp
+  T1_Wang2022_[GN]LED               94   0.017%         84     1.12
+  T2_Ivanov_[GN]LED[AVT]FD           8   0.001%          0   110.45
+  T3_LED                           648   0.114%        706     0.92
+  T4_ED                         11,836   2.083%     19,360     0.61
+  T5_acidic_ge3_DE             167,890  29.551%         --       --
+
+  conditional on IGHJ3  (n = 85,538)
+  tier                             obs    obs %   expected  obs/exp
+  T1_Wang2022_[GN]LED               19   0.022%         14     1.36
+  T2_Ivanov_[GN]LED[AVT]FD           8   0.009%          0   344.03
+  T3_LED                           144   0.168%        126     1.14
+  T4_ED                          2,218   2.593%      3,624     0.61
+  T5_acidic_ge3_DE              40,012  46.777%         --       --
+
+  tiers crossed with VITT-reported IGHV
+    T1_Wang2022_[GN]LED             15
+    T2_Ivanov_[GN]LED[AVT]FD         0
+    T3_LED                         117
+    T4_ED                        2,085
+    T5_acidic_ge3_DE            29,435
+
+  example HCDR3s, T1_Wang2022_[GN]LED:
+    ARHTPVAVMSHGLED
+    ARGRVKLRYCSGGSCYSGLEDY
+    ASGLEDYDYIWGSYRFLYFDY
+    ARDGAGLEDR
+    ARQREGGLEDYDTGTQSPEAADI
+    ARGKLVPAAFWLGLRGLEDAFDI
+    ARLNLEDWYELGIRYFDY
+    ARLNLEDWYELGIRYFDY
+    ARGRSGNGGLED
+    ARDGAGLEDR
+    ARSHDYSNLEDY
+    ARQREGGLEDYDSGTHSPEAADI
+    ARGLEDSSGYYSDRFDH
+    ARVGLEDIVVVPAYYNFDY
+    ARVGLEDIVVVPAYYNFDY
+    ARDPVEYSSSSGLEDFDY
+    TRDNYRAGLEDAFDI
+    AKDLDSSGWGGLEDY
+    ARGGLEDVYWYFDL
+    ARSRDGYNLEDY
+
+  example HCDR3s, T2_Ivanov_[GN]LED[AVT]FD:
+    ARGKLVPAAFWLGLRGLEDAFDI
+    TRDNYRAGLEDAFDI
+    ARGSYGDYGLEDAFDI
+    ARHEKGGLEDAFDI
+    ARFRLGLEDAFDI
+    ARDNNEWFRELLIGLEDAFDI
+    AKKLAYGLEDAFDI
+    AKGYCSGGSCYLGLEDAFDI
+
+======================================================================
+=== (2) IGLV3-21 pairs ===
+usable HCDR3s     : 16,464
+mean HCDR3 length : 15.79
+IGHJ3 usage       : 2,678 (16.266%)
+
+  all sequences in this denominator
+  tier                             obs    obs %   expected  obs/exp
+  T1_Wang2022_[GN]LED                5   0.030%          2     2.07
+  T2_Ivanov_[GN]LED[AVT]FD           0   0.000%          0     0.00
+  T3_LED                            15   0.091%         20     0.73
+  T4_ED                            341   2.071%        604     0.56
+  T5_acidic_ge3_DE               4,968  30.175%         --       --
+
+  conditional on IGHJ3  (n = 2,678)
+  tier                             obs    obs %   expected  obs/exp
+  T1_Wang2022_[GN]LED                4   0.149%          0    10.21
+  T2_Ivanov_[GN]LED[AVT]FD           0   0.000%          0     0.00
+  T3_LED                             5   0.187%          3     1.43
+  T4_ED                             78   2.913%        115     0.68
+  T5_acidic_ge3_DE               1,216  45.407%         --       --
+
+  tiers crossed with VITT-reported IGHV
+    T1_Wang2022_[GN]LED              0
+    T2_Ivanov_[GN]LED[AVT]FD         0
+    T3_LED                           4
+    T4_ED                           75
+    T5_acidic_ge3_DE             1,100
+
+  example HCDR3s, T1_Wang2022_[GN]LED:
+    ARQREGGLEDYDTGTQSPEAADI
+    ARQREGGLEDYDSGTHSPEAADI
+    ARSRDGYNLEDY
+    ASTNLEDTAMVTYAFDI
+    ARQREGGLEDYDSGTHSPEAADI
+
+======================================================================
+=== (3) DDS(D)-proxy pairs  [Table 1C denominator] ===
+usable HCDR3s     : 9,394
+mean HCDR3 length : 15.86
+IGHJ3 usage       : 1,613 (17.171%)
+
+  all sequences in this denominator
+  tier                             obs    obs %   expected  obs/exp
+  T1_Wang2022_[GN]LED                4   0.043%          1     3.31
+  T2_Ivanov_[GN]LED[AVT]FD           0   0.000%          0     0.00
+  T3_LED                            10   0.106%         10     0.96
+  T4_ED                            153   1.629%        310     0.49
+  T5_acidic_ge3_DE               2,556  27.209%         --       --
+
+  conditional on IGHJ3  (n = 1,613)
+  tier                             obs    obs %   expected  obs/exp
+  T1_Wang2022_[GN]LED                4   0.248%          0    18.70
+  T2_Ivanov_[GN]LED[AVT]FD           0   0.000%          0     0.00
+  T3_LED                             5   0.310%          2     2.53
+  T4_ED                             34   2.108%         63     0.54
+  T5_acidic_ge3_DE                 651  40.360%         --       --
+
+  tiers crossed with VITT-reported IGHV
+    T1_Wang2022_[GN]LED              0
+    T2_Ivanov_[GN]LED[AVT]FD         0
+    T3_LED                           4
+    T4_ED                           36
+    T5_acidic_ge3_DE               563
+
+  example HCDR3s, T1_Wang2022_[GN]LED:
+    ARQREGGLEDYDTGTQSPEAADI
+    ARQREGGLEDYDSGTHSPEAADI
+    ASTNLEDTAMVTYAFDI
+    ARQREGGLEDYDSGTHSPEAADI
+
+======================================================================
+Reading notes:
+  * obs/exp is DESCRIPTIVE. The null assumes positional
+    independence of HCDR3 residues, which does not hold.
+    Quote no P value.
+  * T1 is Wang 2022's published 4-residue consensus; a 4-mer
+    occurs by chance, so read obs/exp, not obs %.
+  * T2's DAFD tail overlaps IGHJ3 germline, so T2 largely
+    restates IGHJ3 usage; the IGHJ3-conditional block is the
+    one to read for it.
+  * T5 is the manuscript's existing criterion, for comparison.
